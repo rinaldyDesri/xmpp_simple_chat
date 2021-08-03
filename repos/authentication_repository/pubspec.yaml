@@ -1,0 +1,7 @@
+name: authentication_repository
+description: A new Flutter package project.
+publish_to: none
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  
