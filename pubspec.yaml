@@ -23,10 +23,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter  
-  cupertino_icons: ^1.0.2
-  flutter_bloc: ^7.0.1
+  cupertino_icons: ^1.0.3
+  flutter_bloc: ^7.1.0
   formz: ^0.4.0
-  equatable: ^2.0.0
+  equatable: ^2.0.3
   authentication_repository:
     path: repos/authentication_repository
   user_repository:
