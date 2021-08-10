@@ -24,7 +24,6 @@ dependencies:
   flutter:
     sdk: flutter  
   cupertino_icons: ^1.0.3
-  flutter_bloc: ^7.1.0
   formz: ^0.4.0
   equatable: ^2.0.3
   authentication_repository:
@@ -33,10 +32,9 @@ dependencies:
     path: repos/user_repository
   xmpp_communication:
     path: repos/xmpp_communication
-
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-
+  bloc: ^7.0.0
+  flutter_bloc: ^7.1.0
+  bloc_test: ^8.1.0
+  
 flutter:
   uses-material-design: true
